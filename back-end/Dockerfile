@@ -33,5 +33,8 @@ COPY --from=build ${DEPENDENCY}/BOOT-INF/lib/ app/lib
 COPY --from=build ${DEPENDENCY}/META-INF /app/META-INF
 COPY --from=build ${DEPENDENCY}/BOOT-INF/classes /app
 
+# Copy the wait-for-it script
+COPY wait-for-it.sh /wait-for-it.sh
+
 # Define the command to run the application
-ENTRYPOINT ["java", "-cp", "app:app/lib/*", "org.akhil.assignmentauditor.AssignmentAuditorApplication"]
+CMD ["sh", "/wait-for-it.sh", "mysqldb:3306", "--", "java", "-cp", "app:app/lib/*", "org.akhil.assignmentauditor.AssignmentAuditorApplication"]
