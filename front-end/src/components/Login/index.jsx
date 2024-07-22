@@ -30,8 +30,10 @@ const Login = () => {
           showSuccessMsg("Logged in successfully!")
           setTimeout(() => {
             navigate("/dashboard");
-          }, 300);
+
+          }, 800);
           // window.location.reload();
+          // window.location.href = "/dashboard"
         } else {
           alert(`Error: ${response.status} - ${response.statusText}`);
         }
