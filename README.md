@@ -121,7 +121,7 @@ Check out the live demo: [Assignment Auditor](http://51.20.78.25:5173)
 
 Here you can add some screenshots of your application:
 
-![Screenshot 1](Screenshot%202024-07-22%20at%2010.16.28%20PM.png)
+![Screenshot 1](Screenshot 2024-07-22 at 10.16.28 PM.png)
 
 ![Screenshot 2](/Screenshot 2024-07-22 at 10.17.39 PM.png)
 
