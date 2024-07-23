@@ -118,8 +118,7 @@ Check out the live demo: [Assignment Auditor](http://51.20.78.25:5173)
 - The Code Reviewer dashboard provides an overview of assignments in different states: "Awaiting Review," "In Review," and "Needs Update."
 
 ## Screenshots
-
-Here you can add some screenshots of your application:
+A glimpse of the applcation.
 
 ![Screenshot 1](/screenshot1.png)
 
