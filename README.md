@@ -1,4 +1,4 @@
-# Assignment Auditor ![Assignment Auditor](/front-end/public/assignment_logo.png)
+# Assignment Auditor ![Assignment Auditor](front-end/public/assignment_logo-fotor-20240723124426.png)
 
 Assignment Auditor is an efficient platform where code reviewers and students can seamlessly collaborate. Students can submit their assignments via GitHub, and available code reviewers can claim them, provide detailed code reviews with video URLs, and update the status to "completed" or "needs review." This ensures that both parties are always aware of the status of their assignments and work.
 
@@ -121,21 +121,21 @@ Check out the live demo: [Assignment Auditor](http://51.20.78.25:5173)
 
 Here you can add some screenshots of your application:
 
-![Add Tasks](/Screenshot 2024-07-22 at 10.16.28 PM.png)
+![Screenshot 1](/screenshot1.png)
 
-![Screenshot 2](/Screenshot 2024-07-22 at 10.17.39 PM.png)
+![Screenshot 2](/screenshot2.png)
 
-![Screenshot 3](/Screenshot 2024-07-22 at 10.28.37 PM.png)
+![Screenshot 3](/screenshot3.png)
 
-![Screenshot 4](/Screenshot 2024-07-22 at 10.30.13 PM.png)
+![Screenshot 4](/screenshot4.png)
 
-![Screenshot 5](/Screenshot 2024-07-22 at 10.31.25 PM.png)
+![Screenshot 5](/screenshot5.png)
 
-![Screenshot 6](/Screenshot 2024-07-22 at 10.32.19 PM.png)
+![Screenshot 6](/screenshot8.png)
 
-![Screenshot 7](/Screenshot 2024-07-22 at 10.42.39 PM.png)
+![Screenshot 7](/screenshot9.png)
 
-![Screenshot 8](/Screenshot 2024-07-22 at 10.44.46 PM.png)
+![Screenshot 8](/screenshot10.png)
 
 ## Contributing
 
