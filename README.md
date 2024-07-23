@@ -1,4 +1,4 @@
-# Assignment Auditor ![Assignment Auditor](/front-end/assignment_logo.png)
+# Assignment Auditor ![Assignment Auditor](/front-end/public/assignment_logo.png)
 
 Assignment Auditor is an efficient platform where code reviewers and students can seamlessly collaborate. Students can submit their assignments via GitHub, and available code reviewers can claim them, provide detailed code reviews with video URLs, and update the status to "completed" or "needs review." This ensures that both parties are always aware of the status of their assignments and work.
 
