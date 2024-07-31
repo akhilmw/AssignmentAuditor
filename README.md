@@ -144,12 +144,4 @@ A glimpse of the applcation.
 4. Push to the branch (`git push origin feature/fooBar`).
 5. Create a new Pull Request.
 
-## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Your Name - [akhilmw2@gmail.com](mailto:your-akhilmw2@gmail.com)
-
-Project Link: [[https://github.com/akhilmw/AssignmentAuditor](https://github.com/akhilmw/AssignmentAuditor)]
